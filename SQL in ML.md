@@ -33,9 +33,6 @@ When using SQL in the context of machine learning, there are several main concep
 
    -Testing and Verifying Results:** Test JOIN queries with sample data to ensure expected results.
 
-
-
-
 5. Subqueries: 
 6. Data Manipulation (INSERT, UPDATE, DELETE):
 7. Table Creation (CREATE TABLE):
