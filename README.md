@@ -46,3 +46,4 @@ When college students work as a team on a machine learning project, they can div
    - Skills: Deep knowledge and expertise in the relevant field of study.
 
 In a college setting, students may take on multiple roles, collaborate, and learn from each other, enhancing their interdisciplinary skills. Effective communication and teamwork are crucial for successfully completing an ML project as a group.
+Progress 
